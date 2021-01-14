@@ -1,14 +1,13 @@
-const express = require('express');
+const express = require("express");
 const morgan = require("morgan");
 // Constants
-
 
 // App
 const app = express();
 app.use(morgan("dev"));
 
-app.get('/', (req, res) => {
-  res.send('Welcome to SCA Cloud School Application');
+app.get("/", (req, res) => {
+  res.send("Welcome to SCA Cloud School Application , this is my first assessment");
 });
 
 const port = 5000;
