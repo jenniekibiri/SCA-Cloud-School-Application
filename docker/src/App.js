@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <p>Welcome to SCA Cloud School Application</p>
+     <p>Welcome to SCA Cloud School Application , this is my first assessment</p>
     </div>
   );
 }
