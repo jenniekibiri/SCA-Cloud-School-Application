@@ -1,7 +1,7 @@
 ## Test Process and Output 
  The first step is to build the image from the Dockerfile.
 
-- command to build the image: ``` docker build -t sca-cloud-application .```
+- command to build the image: ``` docker build -t jennykibiri/sca-cloud-school-application .```
 
 Output:
 
